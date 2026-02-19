@@ -1,0 +1,45 @@
+name: Klok
+description: A minimalist clock and timer application with Pomodoro features.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  # App functionality
+  intl: ^0.19.0
+  vibration: ^3.1.4
+  shared_preferences: ^2.2.2
+  audioplayers: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/audio/
+    - assets/Klok.png
+
+  fonts:
+    - family: LexendGiga
+      fonts:
+        - asset: assets/fonts/LexendGiga.ttf
+    - family: SpaceMono
+      fonts:
+        - asset: assets/fonts/SpaceMono-Regular.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/Klok.png"
