@@ -1,29 +1,3 @@
-# Klok
-
-Minimal offline Android clock app.
-
-Simple. Clean. No ads. No tracking.
-
----
-
-## Features
-
-- Digital & Analog clock
-- Dark / Light mode
-- Fullscreen mode
-- Pomodoro
-- Quick Timer
-
-Works completely offline.
-
----
-
-## Download
-
-APK available in the **Releases** section.
-
----
-
 ## Screenshots
 
 ### Digital & Analog
@@ -35,11 +9,13 @@ APK available in the **Releases** section.
 
 ---
 
-### Fullscreen Mode
+### Fullscreen Mode (Dark & Light)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/58bc9042-ea90-4e66-9029-e37fcd0abf6c" width="250"/>
-  <img src="https://github.com/user-attachments/assets/d311d079-9b47-449e-bacd-180d7dff6977" width="250"/>
+  <img src="https://github.com/user-attachments/assets/58bc9042-ea90-4e66-9029-e37fcd0abf6c" width="230"/>
+  <img src="https://github.com/user-attachments/assets/d311d079-9b47-449e-bacd-180d7dff6977" width="230"/>
+  <img src="https://github.com/user-attachments/assets/51121831-f2b1-43c9-928c-342902a89586" width="230"/>
+  <img src="https://github.com/user-attachments/assets/1407e1d6-4dfc-4c2b-a7e8-b8ed0c00cfe3" width="230"/>
 </p>
 
 ---
@@ -58,9 +34,3 @@ APK available in the **Releases** section.
   <img src="https://github.com/user-attachments/assets/9fe05384-02cc-427e-9160-86c732063d71" width="250"/>
   <img src="https://github.com/user-attachments/assets/6ab45106-7423-407c-95a7-a914c6170d72" width="250"/>
 </p>
-
----
-
-## License
-
-MIT
