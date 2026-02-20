@@ -11,13 +11,17 @@
 
 ### Fullscreen Mode (Dark & Light)
 
-| <div align="center">Digital – Dark</div> | <div align="center">Digital – Light</div> |
-|:----------------------------------------:|:------------------------------------------:|
-| <div align="center"><img src="https://github.com/user-attachments/assets/58bc9042-ea90-4e66-9029-e37fcd0abf6c" width="280"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/51121831-f2b1-43c9-928c-342902a89586" width="280"/></div> |
+<div align="center">
 
-| <div align="center">Analog – Dark</div> | <div align="center">Analog – Light</div> |
-|:---------------------------------------:|:-----------------------------------------:|
-| <div align="center"><img src="https://github.com/user-attachments/assets/d311d079-9b47-449e-bacd-180d7dff6977" width="280"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/1407e1d6-4dfc-4c2b-a7e8-b8ed0c00cfe3" width="280"/></div> |
+| Digital – Dark | Digital – Light |
+|----------------|-----------------|
+| <img src="https://github.com/user-attachments/assets/58bc9042-ea90-4e66-9029-e37fcd0abf6c" width="300"/> | <img src="https://github.com/user-attachments/assets/51121831-f2b1-43c9-928c-342902a89586" width="300"/> |
+
+| Analog – Dark | Analog – Light |
+|---------------|----------------|
+| <img src="https://github.com/user-attachments/assets/d311d079-9b47-449e-bacd-180d7dff6977" width="300"/> | <img src="https://github.com/user-attachments/assets/1407e1d6-4dfc-4c2b-a7e8-b8ed0c00cfe3" width="300"/> |
+
+</div>
 
 ---
 
