@@ -1,3 +1,19 @@
+# Klok
+
+Minimal offline Android clock app that focuses on simplicity.
+
+---
+
+## Features
+
+- Digital & Analog clock
+- Dark / Light mode
+- Fullscreen mode
+- Pomodoro
+- Quick Timer
+
+Works completely offline.
+
 ## Screenshots
 
 ### Digital & Analog
